@@ -1,1 +1,1 @@
-this is a simple CSS_flexbox PROJECT by JMR
+This is a simple CSS_flexbox PROJECT by JMR
